@@ -2,8 +2,6 @@ from state import Heuristic, Node  #Py file dependancy
 import math
 from copy import deepcopy #for recursive appending
 
-
-
 def minimax(node: Node) -> (Node, int):
     # teminal heck
     if node.state.terminal_test():  
@@ -27,7 +25,6 @@ def minimax(node: Node) -> (Node, int):
             best_val = terminal.state.utility()
             best_node = terminal
     return best_node, total_expanded
-
 
 
 def alpha_beta_pruning(node: Node, alpha, beta):
@@ -89,7 +86,6 @@ class Negamax:
             if alpha >= beta:
                 break
         return best_node, best_value, total_expanded
-
 
 
 class NegaScout:
