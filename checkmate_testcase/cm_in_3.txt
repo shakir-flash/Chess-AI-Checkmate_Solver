@@ -1,0 +1,73 @@
+Louis Paulsen vs NN, Unknown, 1857
+r1bqr1k1/ppp2pp1/3p4/4n1NQ/2B1PN2/8/P4PPP/b4RK1 w - - 1 0
+1. Qxf7+ Nxf7 2. Bxf7+ Kf8 3. Ng6#
+
+
+Daniel Harrwitz vs Bernhard Horwitz, London, 1846 
+3q1r1k/2p4p/1p1pBrp1/p2Pp3/2PnP3/5PP1/PP1Q2K1/5R1R w - - 1 0
+1. Rxh7+ Kxh7 2. Rh1+ Kg7 3. Qh6# 
+
+
+Joseph Blackburne vs NN, England, 1886 
+r1bq3r/ppp1nQ2/2kp1N2/6N1/3bP3/8/P2n1PPP/1R3RK1 w - - 1 0
+1. Rfc1+ Bc5 2. Qd5+ Nxd5 3. exd5#
+
+
+Jackson vs Frank Marshall, London, 1899
+8/p1p5/2p3k1/2b1rpB1/7K/2P3PP/P1P2r2/3R3R b - - 0 1
+1. Rf4+ 2. Bxf4 Be7+ 3. Bg5 Bxg5#
+
+
+Oldrich Duras vs Adolf Olland, Carlsbad, 1907
+r5r1/p1q2p1k/1p1R2pB/3pP3/6bQ/2p5/P1P1NPPP/6K1 w - - 1 0
+1. Bf8+ Bh5 2. Qxh5+ gxh5 3. Rh6#
+
+
+Richard Reti vs Saviely Tartakower, Vienna, 1910
+rnb1kb1r/pp3ppp/2p5/4q3/4n3/3Q4/PPPB1PPP/2KR1BNR w - - 1 0
+1. Qd8+ Kxd8 2. Bg5+ Kc7 3. Bd8#
+
+
+Richard Black vs Frank Marshall, New York, 1918
+2r3k1/6pp/p2p4/1p6/1p2P3/1PNK1bQ1/1BP3qP/R7 b - - 0 1
+1. Rxc3+ 2. Bxc3 Qe2+ 3. Kd4 Qxe4#
+
+
+David Przepiorka vs Lajos Steiner, Debrecen, 1925
+5rk1/n1p1R1bp/p2p4/1qpP1QB1/7P/2P3P1/PP3P2/6K1 w - - 1 0
+1. Rxg7+ Kxg7 2. Bh6+ Kxh6 3. Qg5#
+
+
+Boris Kostic vs Coleman, Perth, 1924 
+r5rk/2b2p1p/1pppq3/5Np1/p1n4Q/P4R2/1PB3PP/4R1K1 w - - 1 0
+1. Qxh7+ Kxh7 2. Rh3+ Qh6 3. Rxh6#
+
+
+Levan Pantsulaia vs Igor Smirnov, Heraklio, 2002
+1R6/5qpk/4p2p/1Pp1Bp1P/r1n2QP1/5PK1/4P3/8 w - - 1 0
+1. Qxh6+ Kxh6 2. Rh8+ Kg5 3. f4#
+
+
+Emil Sutovsky vs Harmen Jonkman, Tel Aviv, 2001
+4n3/p3N1rk/5Q2/2q4p/2p5/1P3P1P/P1P2P2/6RK w - - 1 0
+1. Rxg7+ Nxg7 2. Qg6+ Kh8 3. Qh6#
+
+
+Peter Leko vs Alexander Morozevich, Nice, 2009
+4Q3/p2r2pk/1n5p/8/8/5N1P/q4PP1/4R1K1 w - - 1 0
+1. Ng5+ hxg5 2. Qh5+ Kg8 3. Re8#
+
+
+Miranda Mikadze vs Tatiana Kosintseva, Belgrade, 7/31/2013
+4r1k1/pb4pp/1p2p3/4Pp2/1P3N2/P2Qn2P/3n1qPK/RBB1R3 b - - 0 1
+1. Nf3+ 2. Kh1 Qxe1+ 3. Qf1 Qxf1#
+
+
+Luke McShane vs Peter Roder, Copenhagen, 2002
+3b2r1/5Rn1/2qP2pk/p1p1B3/2P1N3/1P3Q2/6K1/8 w - - 1 0
+1. Bxg7+ Rxg7 2. Qh3+ Bh4 3. Qxh4#
+
+
+Juergen Wempe vs Hermann Krieger, Merano, 2002
+5rk1/pbppq1bN/1pn1p1Q1/6N1/3P4/8/PPP2PP1/2K4R w - - 1 0
+1. Nf6+ Rxf6 2. Rh8+ Kxh8 3. Qh7#

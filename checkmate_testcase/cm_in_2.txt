@@ -1,0 +1,73 @@
+Gustav Neumann vs Carl Mayet, Berlin, 1866
+5rkr/pp2Rp2/1b1p1Pb1/3P2Q1/2n3P1/2p5/P4P2/4R1K1 w - - 1 0
+1. Qxg6+ fxg6 2. Rg7# 
+
+
+Brunnemer vs Patton, corr. USA, 1920
+r1b1k2r/ppQ1q2n/2p2p2/P3p2p/N3P1pP/1B4P1/1PP2P2/3R1NK1 w - - 1 0
+1. Rd8+ Qxd8 2. Qf7#
+
+
+Paul Morphy vs Duke Isouard, Paris, 1858
+4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 1 0
+1. Qb8+ Nxb8 2. Rd8#
+
+
+Zhu Chen vs Ioannis Papaioannou, Gerani, 2003
+4Q3/r4ppk/3p3p/4pPbB/2P1P3/1q5P/6P1/3R3K w - - 1 0
+1. Bg6+ fxg6 2. fxg6#
+
+
+Joseph Blackburne vs Smith, Simul, 1882
+r1nk3r/2b2ppp/p3b3/3NN3/Q2P3q/B2B4/P4PPP/4R1K1 w - - 1 0
+1. Qd7+ Bxd7 2. Nxf7#
+
+
+Eltaj Safarli vs Bela Khotenashvili, Baku, 2008
+5r2/7p/3R4/p3pk2/1p2N2p/1P2BP2/6PK/4r3 w - - 1 0
+1. g4+ hxg3+ 2. Nxg3#
+
+
+Kaido Kulaots vs Felix Levin, Gausdal, 2006
+r7/6R1/ppkqrn1B/2pp3p/P6n/2N5/8/1Q1R1K2 w - - 1 0
+1. Qb5+ axb5 2. axb5#
+
+
+Michael Adams vs Eric Lobron, Brussels, 1992
+8/7p/5pk1/3n2pq/3N1nR1/1P3P2/P6P/4QK2 w - - 1 0 
+1.Qe8+ Kg7 2.Nf5#
+
+
+Werni Rodel vs James Sherwin, Switzerland, 1994
+8/2p5/Q4pk1/p1Pp4/5n2/PP3PK1/2q4N/8 b - - 0 1
+1. Qg2+ 2. Kxf4 Qg5#
+
+
+Georgios Efthimiou vs V Siametis, Mitilini, 1996
+r1b1k2r/pp3ppp/2n1p3/6B1/2p1q3/Q7/PP2PPPP/3RKB1R w Kkq - 1 0
+1. Rd8+ Nxd8 2. Qe7#
+
+
+Boris Spassky vs G Gilquin, Bastia, 1997
+r3kb1r/q5pp/p1p1Bnn1/1p2Q3/8/2N2PBP/PPP5/2KRR3 w - - 1 0
+1. Bf7+ Kxf7 2. Qe6#
+
+
+Luke McShane vs Bart Michiels, Brussels, 2000
+4nr1k/1bq3pp/5p2/1p2pNQ1/3pP3/1B1P3R/1PP3PP/6K1 w - - 1 0
+1. Rxh7+ Kxh7 2. Qh5#
+
+
+Sergei Zhigalko vs Boguslaw Major, Warsaw, 2006
+r4rk1/5Rbp/p1qN2p1/P1n1P3/8/1Q3N1P/5PP1/5RK1 w - - 1 0
+1. Rxf8+ Kxf8 2. Qf7#
+
+
+Eltaj Safarli vs Bela Khotenashvili, Baku, 2008
+5r2/7p/3R4/p3pk2/1p2N2p/1P2BP2/6PK/4r3 w - - 1 0
+1. g4+ hxg3+ 2. Nxg3#
+
+
+Arne Hagesaether vs Raymond Cannon, Hastings, 2009
+2r3k1/1p3ppp/p3p3/7P/P4P2/1R2QbP1/6q1/1B2K3 b - - 0 1
+1. Rc1+ 2. Qxc1 Qe2#
